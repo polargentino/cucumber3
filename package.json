@@ -1,0 +1,14 @@
+{
+  "name": "cucumber3",
+  "version": "1.0.0",
+  "description": "Ejercicio para XAcademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "Pablo Matías Monsalvo",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0"
+  }
+}
